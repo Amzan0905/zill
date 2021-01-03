@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+#navsection{<style>
+header{
+	width: 1300px;
+	height: 400px;
+	margin: auto;
+}
+section{
+	padding: 100ps;
+	width: 100px;
+	height: 250px;
+	text-align: center;
+	color: white;
+}
+footer{
+	background-color: #85C1E9;
+	padding: 10px;
+	text align: center;
+	color: white;
+	width: 10000px;
+	height: 30px;
+}
+</style>
+</head>
+</html>
